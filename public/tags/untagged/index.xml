@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untagged on The Swolefessor</title>
+    <link>https://example.org/tags/untagged/</link>
+    <description>Recent content in Untagged on The Swolefessor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2024 20:59:49 -0300</lastBuildDate>
+    <atom:link href="https://example.org/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yo</title>
+      <link>https://example.org/posts/yo/</link>
+      <pubDate>Fri, 12 Apr 2024 20:59:49 -0300</pubDate>
+      <guid>https://example.org/posts/yo/</guid>
+      <description>Hello world! and Tim!</description>
+    </item>
+  </channel>
+</rss>
